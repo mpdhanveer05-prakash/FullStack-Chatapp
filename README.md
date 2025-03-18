@@ -133,7 +133,14 @@ Access the application:
 ```
 
 ---
+## 📷 Screenshots
 
+![Login Page](images/login%20page.png)
+![Home Page](images/home%20page.png)
+![Profile Page](images/profile.png)
+![Chat App UI](images/ui.png)
+
+---
 ## 🤝 Contributing
 
 We welcome contributions from developers of all levels! Here’s how you can help:
