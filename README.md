@@ -225,8 +225,4 @@ This project is evolving, and here are a few exciting things on the horizon:
 ![Login](/frontend/public/login.png)
 
 
-
-## 📜 License
-
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
+Credits: @iemafzalhassan (Md. Afzal Hassan Ehsani) for creating this wonderful project repo.
